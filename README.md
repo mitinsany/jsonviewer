@@ -1,2 +1,6 @@
-== JSON Viewer
-* Rip off of 'http://jsonviewer.stack.hu/'. Getting the source code in-case that this site ever comes down
+# JSON Viewer
+
+
+Github hosted custom version of [jsonviewer](https://mitinsany.github.io/jsonviewer/)
+
+In case something happens to the original site http://jsonviewer.stack.hu/.
